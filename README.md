@@ -2,7 +2,11 @@
 
 Simple Form Validation and Submission
 
-Saves data to SQL database, when you print data after entering an id, navigate to the directory `cd data` to find the created file
+Saves data to SQL database,
+
+To retrieve data from the database, enter an id and click the button print,
+When you print data after entering an id, navigate to the directory `cd data` 
+to find the created file
 
 ---
 
